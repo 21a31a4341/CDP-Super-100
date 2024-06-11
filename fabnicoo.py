@@ -39,9 +39,6 @@ def findNthTermUsingTabulation(n):
  
     return cache[n]
  
- 
- 
- 
 n = 10
  
 cache = [-1] * (n + 1)
